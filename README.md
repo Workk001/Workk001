@@ -94,9 +94,6 @@ If your idea has a hole in it, I'll tell you before I build it.
 ![](https://streak-stats.demolab.com/?user=Workk001&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Workk001&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Workk001&theme=aura_dark&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
