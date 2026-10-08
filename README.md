@@ -4,7 +4,7 @@
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/workk001/workk001/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
 
-# 👋 Hey, I'm Dhruv Kumar
+# About Me
 
 I build AI products, SaaS and full-stack web applications that hold up in production.
 
